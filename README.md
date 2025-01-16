@@ -9,10 +9,10 @@ This project is about creating an interactive dashboard to help an EdTech startu
 - Presented insights using visualizations like bar charts, pie charts, and tables for clarity and better decision-making.
 
 ## Insights
-1.The business course type with the highest sum of ratings of 3326.
-2.In the Computer Science category, the Software Development course type has the highest views, with 221,000 views.
-3.Among the categories, Data Science has the most number of views, with 2,636,000 views.
-4.
+- The business course type with the highest sum of ratings of 3326.
+- In the Computer Science category, the Software Development course type has the highest views, with 221,000 views.
+- Among the categories, Data Science has the most number of views, with 2,636,000 views.
+- The maximum number of views for a lecture is between 0 and 200 hours of duration is 221,000 views.
 
 ## Dashboard
 ![Screenshot 2025-01-16 145425](https://github.com/user-attachments/assets/bd29ca2b-9281-4337-a51b-7a45ea0c1d92)
