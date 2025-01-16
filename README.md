@@ -3,10 +3,10 @@
 This project is about creating an interactive dashboard to help an EdTech startup analyze data from various platforms and improve its recorded lecture offerings. The dashboard will show key information like market trends, user preferences, platform performance, and content gaps. With features like filters and comparison tools, it will make it easy for the team to understand the data, make smart decisions, and find opportunities for growth in the EdTech market.
 
 ## Step Followed in this project
-1.Retrieved data from the database into Power BI .
-2.Cleaned and transformed the data using Power Query.
-3.Conducted the ETL (Extract, Transform, Load) process to prepare the data for analysis.
-4.Present insights using visualizations like bar charts, pie charts, and tables for clarity and better decision-making.
+Retrieved data from the database into Power BI.
+Cleaned and transformed the data using Power Query.
+Conducted the ETL (Extract, Transform, Load) process to prepare the data for analysis.
+Presented insights using visualizations like bar charts, pie charts, and tables for clarity and better decision-making.
 
 ## Insights
 1.The business course type with the highest sum of ratings of 3326.
