@@ -1,2 +1,2 @@
-## EdTech Startup Analysis
+# EdTech Startup Analysis
 
