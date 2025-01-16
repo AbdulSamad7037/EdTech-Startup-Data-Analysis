@@ -12,5 +12,7 @@ This project is about creating an interactive dashboard to help an EdTech startu
 3.Among the categories, Data Science has the most number of views, with 2,636,000 views.
 # Dashboard
 ![Screenshot 2025-01-16 145425](https://github.com/user-attachments/assets/bd29ca2b-9281-4337-a51b-7a45ea0c1d92)
+![image](https://github.com/user-attachments/assets/8f125c89-7c01-4be2-8b69-f9812a53d179)
+
 
 
